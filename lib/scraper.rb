@@ -3,6 +3,8 @@ require 'open-uri'
 require'pry'
 
 require_relative './course.rb'
+#require this class so that scraper can make new attributes and assing from the scraped webpage
+
 
 class Scraper
 
